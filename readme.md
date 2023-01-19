@@ -1,25 +1,32 @@
 ![banner-github](https://github.com/emmanuelmarcosdeoliveira/media-query/blob/main/imagens/manu-github.png) 
-# Projeto - Responsivo
+[Descrição](#descrição) | 
+[Funcionalidades](#funcionalidades) |
+[Screenshot ou Gif](#screenshots-ou-gif) |
+[Demostração](n#demonstração) |
+[Deploy](#deploy) |
+[Aprendizados](#aprendizados) |
+[Referencias](#referência) |
+# Projeto - bikcraft
 ## Descrição:
 Nome |   Descrição
----- | -----------
-Responsivo | Nesse exercício foi criado um arquivo base **HTML**, aonde ele se **comporta** de forma diferente de acordo com o **tamanho da tela.**
+---- | ------------
+bikcraft | Nesse exercício foi criado um arquivo base **HTML** e **CSS** aonde o intuito é comçar a  desenvolver habilidades com CSS **flex box** e **flex grid**.  
 ## Funcionalidades
 
-- Responsividade
+
 - Preview em tempo real
 - Modo tela cheia
 - Multiplataforma
 
 
-## Screenshots
+## Screenshots ou gif 
 
-![Media-Query](https://github.com/emmanuelmarcosdeoliveira/media-query/blob/main/imagens/screenshout.png?raw=true)
+![Projeto-bikcraft](https://github.com/emmanuelmarcosdeoliveira/projeto-bikcraft/blob/main/img/Bikcraft.gif)
 
 ## Demonstração
 
 Clique no link para acessar. <br>
- [Projeto - Responsivo ](https://media-query-wheat.vercel.app/)
+ [Projeto - bikcraft ](https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/)
 
 
 ## Deploy
@@ -27,18 +34,18 @@ Clique no link para acessar. <br>
 Para fazer o deploy desse projeto rode
 
 ```bash
-  https://media-query-wheat.vercel.app/
+ https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/
 ```
 
 
 ## Aprendizados
 
--  Exemplos de Media Queries,
- - Device Break Point, 
+- Design. 
+- CSS - flex box
+ -CSS - flex grid 
 
 ## Referência
 
- - [Estudonauta](https://www.estudonauta.com/)
- - [Curso em video](https://cursoemvideo.com)
- 
+ - [Origammid](https://www.origamid.com/)
+  
 
