@@ -10,7 +10,7 @@
 ## Descrição:
 Nome |   Descrição
 ---- | ------------
-bikcraft | Nesse exercício foi criado um arquivo base **HTML** e **CSS** aonde o intuito é comçar a  desenvolver habilidades com CSS **flex box** e **flex grid**.  
+bikcraft | Nesse exercício foi criado um página de arquivo base **HTML** e **CSS** com o intuito de desenvolver habilidades com CSS **flex box** e **flex grid**.  
 ## Funcionalidades
 
 
