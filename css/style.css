@@ -222,6 +222,10 @@ p {
     text-transform: uppercase;
     border: 2px solid var(--cordebordaopadrao) ;
   }
+  .menu a:hover {
+    border: 2px solid #e21 ;
+    }
+
   .introducao {
     background: var(--backgroud3);
     color: var(--cordetexto1);
@@ -232,7 +236,7 @@ p {
     gap: 20px;
     align-content: center;
     justify-items: end;
-  }
+  }     
   .vantagens {
     color: var(--cordetexto1);
     background:var(--backgroud3);
@@ -261,5 +265,6 @@ p {
       .botao:hover {
         background: #e21;
       }
+           
    }
   
